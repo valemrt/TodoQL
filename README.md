@@ -39,4 +39,4 @@ Here's a list of the request you can try out based on this current implementatio
    Use this request to add a new Todo to the list (Mutation).
    
 ## Notes
-This is only a basic example of how to create APIs using GraphQL, for detailed documentation refer to the [official documentation.](https://graphql.org/learn/)
+This is only a basic example of how to create APIs using GraphQL, for detailed documentation refer to the [official site.](https://graphql.org/learn/)
