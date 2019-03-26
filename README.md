@@ -19,18 +19,15 @@ Here's a list of the request you can try out based on this current implementatio
 
 - POST 
 
+    `{ "query": "{ list { description } }" }`
     
-    { "query": "{ list { description } }" }
-    
-  to get a list of all stored Todos (Query).
+    to get a list of all stored Todos (Query).
   
 - POST 
 
+    `{ "query": "{ todo(id: 1) { description } }" }`
     
-    { "query": "{ todo(id: 1) { description } }" }
- 
- 
- to get a specific Todos matching the passed input (Query).   
+    to get a specific Todos matching the passed input (Query).   
 - POST
 
 ```
